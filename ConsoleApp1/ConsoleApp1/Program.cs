@@ -10,16 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello guysssss!!!! ");
-
-            int Sum(int x, int y) {
-                return x + y; 
-            }
-
-        Console.WriteLine(Sum(10,200));
+            
         }
 
-        
+        void Sum(int a, int b) { }
         
     }
 }
